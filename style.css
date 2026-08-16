@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    margin: 50px auto;
+    padding: 25px;
+    background-color: #ec63b7;
+    border: 2px solid #93c8ec;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px
+rgb(127, 172, 240);
+}
+
+input {
+    margin-bottom: 15px;
+    padding: 12px;
+    border: 1px solid #93c8ec;
+    border-radius: 10px;
+    outline: none;
+}
+
+input:focus {
+    border-color: aliceblue;
+}
+
+button {
+    margin-bottom: 10px;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    background-color: #93c8ec;
+    color: whitesmoke;
+    font-size: 16px
+}
+Compose
+Write to Edmon
